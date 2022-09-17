@@ -9,3 +9,4 @@
    -  Make GSC Mods for Bo2, Bo3, mw2, mw3 and WaW along with other games!
    -  Make Mod Menus
     - Make Personal Projects etc.
+    - It is fun!
